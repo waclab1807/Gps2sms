@@ -203,7 +203,6 @@ public class Gps2sms extends Activity implements
                 break;
             case 1:
                 System.exit(0);
-                //moveTaskToBack(true);
                 break;
             default:
                 break;

@@ -2,7 +2,6 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
-        <item name="icon">@drawable/objectcontrol</item>
         <item name="android:actionBarStyle">@style/MyActionBar</item>
         <!-- Customize your theme here. -->
     </style>

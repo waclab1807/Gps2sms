@@ -30,6 +30,6 @@
     <string name="cantUse">Nie możesz używać aplikacji bez GPS</string>
     <string name="noGSM">Przykro mi, to urządzenie nie może wysyłać SMS.</string>
     <string name="waiting">Poczekaj, aż GPS odczyta wpółrzędne</string>
-    <string name="info">W budynku GPS może kłamać!</string>
+    <string name="info">W budynku GPS może być niedokładny!</string>
 
 </resources>

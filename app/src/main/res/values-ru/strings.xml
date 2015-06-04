@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="actual">Текущие координаты:</string>
+    <string name="alert">Внимание! Объект перемещается из выбранной области!\nОтправка сообщения на:\n</string>
+    <string name="about">об авторе</string>
+    <string name="actualProg">В настоящее время:</string>
+    <string name="badPhnumber">Проверьте номер!</string>
+    <string name="backButton">Нажмите снова, чтобы выйти.</string>
+    <string name="cantUse">Вы не можете использовать приложение без GPS</string>
+    <string name="emptyNumber">Введите номер!</string>
+    <string name="finish">отделка</string>
+    <string name="giveNumber">Введите номер телефона, на который отправляется уведомление:</string>
+    <string name="gpsDialog">GPS выключен, вы хотите, чтобы включить его?</string>
+    <string name="latt">широта</string>
+    <string name="longt">долгота</string>
+    <string name="main">Применение для проверки объекта в определенной области</string>
+    <string name="moment">я ищу...</string>
+    <string name="newPosition">Новые координаты:</string>
+    <string name="no">не</string>
+    <string name="noGSM">К сожалению, эта машина не может отправлять текстовые сообщения.</string>
+    <string name="noPhnumber">Во-первых, ввести номер!</string>
+    <string name="off">от</string>
+    <string name="on">переключатель</string>
+    <string name="prog">Установите зону:</string>
+    <string name="sms">Отель пошел выше и за ее пределами обозначенной области!\nЕго координаты:</string>
+    <string name="sms2">Не забудьте сбросить заявку.</string>
+    <string name="yes">так</string>
+    <string name="waiting">Подождите, пока вы не прочитать GPS координаты</string>
+    <string name="startApp">1.Введите номер телефона,\n2.Установить размер области,\n3.Нажмите поворот.</string>
+    <string name="info">В середине здания GPS может лежать!</string>
+</resources>

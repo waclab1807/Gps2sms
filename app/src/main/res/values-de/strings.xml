@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="about">Autor</string>
+    <string name="actual">Aktuelle Koordinaten:</string>
+    <string name="actualProg">Aktuell:</string>
+    <string name="alert">Achtung! Objekt bewegt sich der gewählten Region!\nSenden Meldung auf:\n</string>
+    <string name="backButton">Drücken Sie noch einmal zurück, um zu beenden.</string>
+    <string name="badPhnumber">Überprüfen Sie die Nummer!</string>
+    <string name="cantUse">Sie können diese Anwendung ohne GPS nicht verwenden</string>
+    <string name="emptyNumber">Geben Sie die Nummer!</string>
+    <string name="finish">Ende</string>
+    <string name="giveNumber">Geben Sie die Telefonnummer , an die melde zu senden:</string>
+    <string name="gpsDialog">GPS ausgeschaltet ist, schalten Sie ihn ein?</string>
+    <string name="latt">Breite</string>
+    <string name="longt">Länge</string>
+    <string name="main">Anwendung auf Objekte im gewählten Region zu steuern</string>
+    <string name="moment">suchen...</string>
+    <string name="newPosition">Neue Koordinaten:</string>
+    <string name="no">NEIN</string>
+    <string name="yes">JA</string>
+    <string name="waiting">Warten Sie auf GPS-Koordinaten</string>
+    <string name="noGSM">Unglücklicher, das Gerät kann keine SMS versenden.</string>
+    <string name="noPhnumber">Erste Telefonnummer eingeben!</string>
+    <string name="off">Ausschalten</string>
+    <string name="on">Einschalten</string>
+    <string name="prog">Stellen Sie den Bereich:</string>
+    <string name="sms">Objekt bewegt aus dem ausgewählten Bereich!\nEs neuen Koordinaten:</string>
+    <string name="sms2">Denken Sie daran, die Anwendung zurückzusetzen.</string>
+    <string name="startApp">1.Geben Sie die Telefonnummer,\n2.Stellen Sie die Größe des Bereichs,\n3.Klicken Sie Einschalten.</string>
+    <string name="info">In der Mitte des Hauses GPS kann lügen!</string>
+</resources>

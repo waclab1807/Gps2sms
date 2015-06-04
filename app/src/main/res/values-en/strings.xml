@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="about">About author</string>
+    <string name="actual">Current coordinates:</string>
+    <string name="actualProg">Current:</string>
+    <string name="alert">Attention! Object moved out of selected area! \nSending message on:\n</string>
+    <string name="backButton">Press back once again to exit.</string>
+    <string name="badPhnumber">Check phone number!</string>
+    <string name="cantUse">You can`t use this app without GPS</string>
+    <string name="emptyNumber">Input phone number!</string>
+    <string name="giveNumber">Input phone number, where notifications will be sent</string>
+    <string name="finish">Exit</string>
+    <string name="gps"></string>
+    <string name="gpsDialog">GPS is off, turn it on?</string>
+    <string name="hello"></string>
+    <string name="latt">Latitude</string>
+    <string name="longt">Longitude</string>
+    <string name="main">Application to control objects in selected area</string>
+    <string name="moment">searching...</string>
+    <string name="newPosition">New coordinates:\n</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+    <string name="waiting">Wait for GPS coordinates</string>
+    <string name="off">Turn off</string>
+    <string name="on">Turn on</string>
+    <string name="prog">Set the area</string>
+    <string name="sms">Object moved out of selected area!\nIt`s new coordinates:\n</string>
+    <string name="sms2">Remember to set up application again.</string>
+    <string name="noPhnumber">Input phone number first!</string>
+    <string name="noGSM">Sorry, this device can`t send SMS.</string>
+    <string name="startApp">1.Input phone number,\n2.Set the area,\n3.Press Turn on button.</string>
+    <string name="info">Inside the building GPS can lie!</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="about">Autor</string>
+    <string name="actual">Las coordenadas reales:</string>
+    <string name="actualProg">Actualmente:</string>
+    <string name="alert">Tenga en cuenta que la propiedad ha ido más allá de la zona designada!\nEstoy enviando un mensaje al número:\n</string>
+    <string name="backButton">Presione de nuevo para salir.</string>
+    <string name="badPhnumber">Verificar el número!</string>
+    <string name="cantUse">Usted no puede utilizar esta aplicación sin GPS</string>
+    <string name="emptyNumber">Introduzca el número de teléfono!</string>
+    <string name="finish">Salida</string>
+    <string name="giveNumber">Ingrese el número telefónico, donde se enviarán las notificaciones</string>
+    <string name="gpsDialog">GPS está apagado, encenderlo?</string>
+    <string name="latt">Latitud</string>
+    <string name="longt">Longitud</string>
+    <string name="main">Aplicación para controlar objetos en el área seleccionada</string>
+    <string name="moment">búsqueda...</string>
+    <string name="newPosition">nuevas coordenadas:\n</string>
+    <string name="no">NO</string>
+    <string name="yes">Sí</string>
+    <string name="on">Encender</string>
+    <string name="off">Desactivar</string>
+    <string name="noPhnumber">Número de teléfono Introducir primero!</string>
+    <string name="noGSM">Lo sentimos, este dispositivo no puede enviar SMS.</string>
+    <string name="prog">Ajuste el área</string>
+    <string name="sms2">Recuerde aplicación de configuración de nuevo.</string>
+    <string name="sms">Objeto mudó de área seleccionada!\nEs nuevas coordenadas:\n</string>
+    <string name="waiting">Espere a que las coordenadas GPS</string>
+    <string name="startApp">1.Número de teléfono Introducir,\n2.Ajuste la zona,\nPresione Encienda botón.</string>
+    <string name="info">En el centro de la construcción GPS puede mentir!</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="about">Om författaren</string>
+    <string name="actual">Aktuella koordinater:</string>
+    <string name="actualProg">Aktuell:</string>
+    <string name="alert">OBS! Objekt flyttas ut från valt område!\nSkickar meddelande på:\n</string>
+    <string name="backButton">Tryck tillbaka igen för att avsluta.</string>
+    <string name="badPhnumber">Kontrollera telefonnummer!</string>
+    <string name="cantUse">Du kan inte använda denna applikation utan GPS</string>
+    <string name="emptyNumber">Ingångs telefonnummer!</string>
+    <string name="finish">Utgång</string>
+    <string name="giveNumber">Ingångs telefonnummer, där anmälningar kommer att skickas</string>
+    <string name="gpsDialog">GPS är avstängd, slå på den?</string>
+    <string name="latt">Latitud</string>
+    <string name="longt">Longitud</string>
+    <string name="main">Application för att styra objekt i markerade området</string>
+    <string name="moment">söka...</string>
+    <string name="newPosition">Nya koordinater:\n</string>
+    <string name="no">NEJ</string>
+    <string name="yes">JA</string>
+    <string name="noGSM">Tyvärr, denna maskin kan inte skicka textmeddelanden.</string>
+    <string name="noPhnumber">Ingångs telefonnummer först!</string>
+    <string name="off">Inaktivera</string>
+    <string name="on">Aktivera</string>
+    <string name="prog">Ställ in ytan:</string>
+    <string name="sms">Objekt flyttas ut från det markerade området!\nDet nya koordinater:\n</string>
+    <string name="sms2">Kom ihåg att återställa programmet.</string>
+    <string name="startApp">1.Ingångs telefonnummer,\n2.Ställ in ytan,\n3.Klicka på Aktivera</string>
+    <string name="waiting">Vänta på GPS-koordinater</string>
+    <string name="info">I mitten av byggnaden GPS kan ligga!</string>
+</resources>

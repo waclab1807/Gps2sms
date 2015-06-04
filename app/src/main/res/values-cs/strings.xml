@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="startApp">1.Zadejte telefonní číslo,\nNastavte oblast,\nStiskněte Zapněte tlačítko.</string>
+    <string name="yes">ANO</string>
+    <string name="waiting">Počkejte GPS souřadnice</string>
+    <string name="sms2">Nezapomeňte do aplikace nastavení znovu.</string>
+    <string name="sms">Objekt se odstěhoval z vybrané oblasti!\nJe to nová poloha:\n</string>
+    <string name="prog">Nastavit oblast</string>
+    <string name="on">Obrat</string>
+    <string name="off">Pryč</string>
+    <string name="noPhnumber">Za prvé, zadejte číslo!</string>
+    <string name="noGSM">Je nám líto, tento stroj není posílání textových zpráv.</string>
+    <string name="no">NE</string>
+    <string name="newPosition">Nová poloha:\n</string>
+    <string name="moment">vyhledávání...</string>
+    <string name="main">Aplikace pro ovládání objektů ve vybraném území</string>
+    <string name="longt">Zeměpisná délka:</string>
+    <string name="latt">Zeměpisná šířka:</string>
+    <string name="gpsDialog">GPS vypnout, chcete povolit?</string>
+    <string name="giveNumber">Zadejte telefonní číslo, na které zaslat oznámení:</string>
+    <string name="finish">Výjezd</string>
+    <string name="emptyNumber">Zadejte číslo!</string>
+    <string name="cantUse">Nemůžete použít aplikaci bez GPS</string>
+    <string name="badPhnumber">Zkontrolujte číslo!</string>
+    <string name="backButton">Stiskněte znovu pro opuštění.</string>
+    <string name="actualProg">Aktuálně:</string>
+    <string name="actual">Aktuální popisují souřadnice:</string>
+    <string name="about">O autorovi</string>
+    <string name="alert">Pozor! Objekt se odstěhoval z vybrané oblasti!\nPosílám zprávu na číslo:\n</string>
+    <string name="info">Ve středu budovy GPS může ležet!</string>
+</resources>

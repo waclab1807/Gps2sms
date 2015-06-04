@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="startApp">1.Zadajte telefónne číslo,\n2.Nastaviť veľkosť plochy,\n3.Kliknite na zapnúť.</string>
+    <string name="yes">áno</string>
+    <string name="no">Nie</string>
+    <string name="waiting">Počkajte, až budete čítať GPS súradnice</string>
+    <string name="sms2">Nezabudnite resetovať aplikácie.</string>
+    <string name="sms">Objekt sa odsťahoval z vybranej oblasti!\nJe to nová situácia:\n</string>
+    <string name="prog">Nastaviť oblasť:</string>
+    <string name="on">Zapnúť</string>
+    <string name="off">Vypnúť</string>
+    <string name="noPhnumber">Po prvé, zadajte číslo!</string>
+    <string name="noGSM">Je nám ľúto, tento stroj nie je posielanie textových správ.</string>
+    <string name="newPosition">Nová poloha:\n</string>
+    <string name="moment">ja som hľadal...</string>
+    <string name="main">Aplikácia pre ovládanie objektov vo vybranom území</string>
+    <string name="longt">Geografická dĺžka:</string>
+    <string name="latt">Geografická šírka:</string>
+    <string name="gpsDialog">GPS vypnúť, chcete povoliť?</string>
+    <string name="giveNumber">Zadajte telefónne číslo, na ktoré zaslať oznámenie:</string>
+    <string name="finish">Výjazd</string>
+    <string name="emptyNumber">Zadajte číslo!</string>
+    <string name="cantUse">Nemôžete použiť aplikáciu bez GPS</string>
+    <string name="badPhnumber">Skontrolujte číslo!</string>
+    <string name="backButton">Stlačte znovu pre opustenie.</string>
+    <string name="alert">Pozor! Objekt sa odsťahoval z vybranej oblasti!\nOdoslanie správy na:\n</string>
+    <string name="actualProg">Aktuálne:</string>
+    <string name="actual">Aktuálne popisujú súradnice:</string>
+    <string name="about">O autorovi</string>
+    <string name="info">V stredu budovy GPS môže ležať!</string>
+</resources>

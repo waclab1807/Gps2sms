@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ObjectControl</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello" translatable="false">Znajdź drogę powrotną</string>
+    <string name="gps" translatable="false">Compass</string>
+    <string name="main">Aplikacja do kontroli obiektu w określonym obszarze</string>
+    <string name="actual">Aktualne współrzędne to:</string>
+    <string name="longt">Długość:</string>
+    <string name="latt">Szerokość:</string>
+    <string name="moment">szukam...</string>
+    <string name="giveNumber">Podaj numer telefonu na jaki wysłać powiadomienie:</string>
+    <string name="prog">Ustaw obszar:</string>
+    <string name="actualProg">Aktualnie:</string>
+    <string name="emptyNumber">Podaj numer!</string>
+    <string name="sms">Obiekt wyszedł poza wyznaczony obszar!\nJego współrzędne to:\n</string>
+    <string name="sms2">Pamiętaj, aby ponownie ustawić aplikację.</string>
+    <string name="on">Włącz</string>
+    <string name="off">Wyłącz</string>
+    <string name="noPhnumber">Najpierw podaj numer!</string>
+    <string name="badPhnumber">Sprawdź numer!</string>
+    <string name="alert">UWAGA! Obiekt wyszedł poza wyznaczony obszar!\nWysyłam wiadomość na numer:\n</string>
+    <string name="newPosition">Nowe współrzędne:\n</string>
+    <string name="startApp">1.Podaj numer telefonu, \n2.Ustaw wielkość obszaru, \n3.Kliknij włącz.</string>
+    <string name="backButton">Naciśnij cofnij jeszcze raz, aby wyjść.</string>
+    <string name="about">O autorze</string>
+    <string name="finish">Zakończ</string>
+    <string name="gpsDialog">GPS wyłączony, chcesz go włączyć?</string>
+    <string name="yes">TAK</string>
+    <string name="no">NIE</string>
+    <string name="cantUse">Nie możesz używać aplikacji bez GPS</string>
+    <string name="noGSM">Przykro mi, to urządzenie nie może wysyłać SMS.</string>
+    <string name="waiting">Poczekaj, aż GPS odczyta wpółrzędne</string>
+    <string name="info">W budynku GPS może kłamać!</string>
+
+</resources>

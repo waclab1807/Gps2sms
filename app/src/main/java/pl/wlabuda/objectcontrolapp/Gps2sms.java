@@ -1,4 +1,4 @@
-package pl.wlabuda.objectcontrol;
+package pl.wlabuda.objectcontrolapp;
 
 import android.app.ActionBar;
 import android.app.AlertDialog;
@@ -17,7 +17,6 @@ import android.telephony.SmsManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.widget.SeekBar;
 import android.widget.TextView;

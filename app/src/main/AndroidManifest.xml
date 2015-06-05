@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="pl.wlabuda.objectcontrol" >
+    package="pl.wlabuda.objectcontrolapp" >
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
@@ -15,7 +15,7 @@
         android:windowSoftInputMode="stateUnchanged"
        >
         <activity
-            android:name=".Gps2sms"
+            android:name="pl.wlabuda.objectcontrolapp.Gps2sms"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

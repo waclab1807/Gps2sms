@@ -1,4 +1,4 @@
-package pl.wlabuda.objectcontrol;
+package pl.wlabuda.objectcontrolapp;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

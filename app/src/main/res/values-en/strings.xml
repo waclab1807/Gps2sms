@@ -11,9 +11,7 @@
     <string name="emptyNumber">Input phone number!</string>
     <string name="giveNumber">Input phone number, where notifications will be sent</string>
     <string name="finish">Exit</string>
-    <string name="gps"></string>
     <string name="gpsDialog">GPS is off, turn it on?</string>
-    <string name="hello"></string>
     <string name="latt">Latitude</string>
     <string name="longt">Longitude</string>
     <string name="main">Application to control objects in selected area</string>
